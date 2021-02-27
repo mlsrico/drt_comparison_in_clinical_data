@@ -2,7 +2,7 @@
 
 Marina Sánchez-Rico*, Nicolas Hoertel and Jesús M. Alvarado
 
-*Correspondence: Marina Sánchez-Rico (marinals@ucm.es; mlsrico@outlook.es)
+*Correspondence: Marina Sánchez-Rico (marinals@ucm.es)
 
 -------
 
